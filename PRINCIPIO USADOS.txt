@@ -1,0 +1,5 @@
+PRINCIPIO USADOS:
+SRP
+OCP
+
+Lenguaje Usado: C# - Aplicación de Consola

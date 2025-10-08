@@ -3,8 +3,6 @@ using ConsoleApp1.Class;
 
 namespace ConsoleApp1
 {
-
-    // 🔹 Clase principal (usa inyección de dependencias → DIP)
     public class Program
     {
         static void Main(string[] args)
