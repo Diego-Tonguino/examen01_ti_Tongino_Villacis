@@ -13,7 +13,7 @@ public class InputHandler_TV
 
             if (!EsValido_TV(numero))
             {
-                Console.WriteLine("⚠️ Ingrese un número válido entre 1 y 10^200.");
+                Console.WriteLine("Ingrese un número válido entre 1 y 10^200.");
             }
 
         } while (!EsValido_TV(numero));

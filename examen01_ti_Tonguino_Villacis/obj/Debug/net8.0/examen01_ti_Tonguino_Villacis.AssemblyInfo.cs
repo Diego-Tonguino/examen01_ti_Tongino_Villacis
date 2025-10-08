@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("examen01_ti_Tonguino_Villacis")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e0ab96b90b28a939f9ae7b83ebfbba2fe499defc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+853b4745405a66cd43c505d8c1c6ccb7d30c4146")]
 [assembly: System.Reflection.AssemblyProductAttribute("examen01_ti_Tonguino_Villacis")]
 [assembly: System.Reflection.AssemblyTitleAttribute("examen01_ti_Tonguino_Villacis")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
